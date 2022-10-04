@@ -1,0 +1,1 @@
+Sync DB with schema: npx prisma db push
